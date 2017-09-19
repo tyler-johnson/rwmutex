@@ -1,5 +1,7 @@
 # RWMutext
 
+[![npm](https://img.shields.io/npm/v/rwmutex.svg)](https://www.npmjs.com/package/rwmutex) [![Build Status](https://travis-ci.org/tyler-johnson/rwmutex.svg?branch=master)](https://travis-ci.org/tyler-johnson/rwmutex)
+
 A simple read-write mutex/lock using JavaScript Promises. This is inspired by Golang's sync.RWMutex.
 
 ## Install
