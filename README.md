@@ -1,4 +1,4 @@
-# RWMutext
+# RWMutex
 
 [![npm](https://img.shields.io/npm/v/rwmutex.svg)](https://www.npmjs.com/package/rwmutex) [![Build Status](https://travis-ci.org/tyler-johnson/rwmutex.svg?branch=master)](https://travis-ci.org/tyler-johnson/rwmutex)
 
